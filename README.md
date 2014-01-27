@@ -1,4 +1,6 @@
-The website is hosted from the gh-pages branch.  You may make your own static HTML and CSS files.  Or you can write it in Markdown by making sure the following boilerplate is at the top of the file:
+The source files for the [scale-av minimalist website](http://scale-av.github.io/scale-av-web/) is on this gh-pages branch. You may make your own static HTML and CSS files.  
+
+If you prefer to use Markdown as your source file, make sure you make the title the first thing in the file:
 
 ```
 ---
