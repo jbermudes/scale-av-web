@@ -12,18 +12,19 @@ We are currently working on SCALE 12x, which will be at the LAX Hilton on the we
 
 There are many volunteer opportunities ([see wiki](https://github.com/scale-av/scale-av-web/wiki/Volunteer-opportunities)) before, during, and after the conference.
 
-volunteer timeline
-------------------
 Please keep an eye on the 
  - [video-capture github wiki](https://github.com/scale-av/video-capture/wiki)
  - [video-capture github issues](https://github.com/scale-av/video-capture/issues?state=open).  
  - [scale-av-web github wiki](https://github.com/scale-av/scale-av-web/wiki)
  - [scale-av-web github issues](https://github.com/scale-av/scale-av-web/issues)
 
+volunteer timeline
+------------------
  - Most of the before-SCALE activities involve software development and hardware hacking in addition to the usual planning.  
  - Feb 20 (Thu),  we will be setting up the conference rooms and the A/V command center.  
  - Feb 21-23 (Fri-Sun),  we will be focused on live video and audio production and troubleshooting.  
  - Feb 23 (Sun), once the conference is over,  we could use all the help we can get for tear down.  
+ - After, we will have a post-mortem and finish up with any video editing tasks needed to get all the videos uploaded to Youtube.
 
 volunteer signup
 ----------------
