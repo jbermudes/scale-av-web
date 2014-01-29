@@ -22,7 +22,7 @@ volunteer timeline
 ------------------
  - Most of the before-SCALE activities involve software development and hardware hacking in addition to the usual planning.  
  - Feb 20 (Thu),  we will be setting up the conference rooms and the A/V command center.  
- - Feb 21-23 (Fri-Sun),  we will be focused on live video and audio production and troubleshooting.  
+ - Feb 21-23 (Fri-Sun),  we will be focused on live video and audio production and troubleshooting.  Volunteer hours are 9-6pm, but A/V support may be required for some evening events.  
  - Feb 23 (Sun), once the conference is over,  we could use all the help we can get for tear down.  
  - After, we will have a post-mortem and finish up with any video editing tasks needed to get all the videos uploaded to Youtube.
 
