@@ -1,6 +1,8 @@
 ---
 title: scale-av minimalist webpage
 ---
+scale-av minimalist webpage
+===========================
 
 SCALE A/V is the team that handles A/V for the [Southern California Linux Expo](http://socallinuxexpo.org), an open source conference.  
 
@@ -25,13 +27,13 @@ When the conference is over on Sunday evening, we could use all the help we can 
 If you are interested in volunteering with us, 
 
  - Sign up [here](http://bit.ly/L0vGSa) at your earliest convenience so we can get a good idea of what our staffing will be and whether we need to heavily recruit for certain time slots.
- - Sign up for the [scale-av mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-av).That is where A/V-related discussions occur and where announcements will be made.  There will be morfrequent announcements as we get closer to SCALE.   Please feel free to contribute your ideas.
- - Bookmark this page.  It will be a centralized place to direct people to current scale-av plans and activities.  We will be posting more information as we figure out logistical and technical issues.
+ - Sign up for the [scale-av mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-av).  This is we discuss things relating to A/V and where announcements will be made.  It will get busier as we get closer to SCALE.   Please feel free to ask questions and contribute your ideas.  Don't let Feb 21 or 22nd be the first time we hear from you.
+ - Bookmark [this page](http://scale-av.github.io/scale-av-web/).  It will be a centralized place to direct people to current scale-av plans and activities.  We will be posting more information as we figure out logistical and technical issues.
 
 Who's who on the scale-av mailing list
  - Ilan Rabinovitch is the SCALE Conference Chair and involved with the streaming video
- - Michael Proctor Smith is the A/V Chair and handling the technical end
- - Tom King is the former A/V Chair who is back handling the rental equipment
+ - Michael Proctor Smith is the A/V Chair and handles the technical end
+ - Tom King is a former A/V Chair; he handles the rental equipment
  - Lan Dang is the new A/V volunteer coordinator and the one who writes up most of the wiki entries and issues.
 
 
