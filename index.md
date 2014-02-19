@@ -13,17 +13,18 @@ We are currently working on SCALE 12x, which will be at the LAX Hilton on the we
 There are many volunteer opportunities ([see wiki](https://github.com/scale-av/scale-av-web/wiki/Volunteer-opportunities)) before, during, and after the conference.
 
 Please keep an eye on the 
- - [video-capture github wiki](https://github.com/scale-av/video-capture/wiki)
- - [video-capture github issues](https://github.com/scale-av/video-capture/issues?state=open).  
  - [scale-av-web github wiki](https://github.com/scale-av/scale-av-web/wiki)
- - [scale-av-web github issues](https://github.com/scale-av/scale-av-web/issues)
+
+volunteer info
+---------------
+You can find information on registration, parking, meals, etc on the [wiki](https://github.com/scale-av/scale-av-web/wiki/Volunteer-Basic-Info)
 
 volunteer timeline
 ------------------
  - Most of the before-SCALE activities involve software development and hardware hacking in addition to the usual planning.  
  - Feb 20 (Thu),  we will be setting up the conference rooms and the A/V command center.  
- - Feb 21-23 (Fri-Sun),  we will be focused on live video and audio production and troubleshooting.  Volunteer hours are 9-6pm, but A/V support may be required for some evening events.  
- - Feb 23 (Sun), once the conference is over,  we could use all the help we can get for tear down.  
+ - Feb 21-23 (Fri-Sun),  we will be focused on live video and audio production and troubleshooting.  Volunteer hours are 9-7pm, but A/V support may be required for some evening events.  (NOTE: you are not expected to work the whole day, just whatever times you can manage.)
+ - Feb 23 (Sun), once the conference is over,  we could use all the help we can get for tear down.  Most talks will be over by 5:30pm, but we can probably begin teardown of rooms that are no longer being used.  
  - After, we will have a post-mortem and finish up with any video editing tasks needed to get all the videos uploaded to Youtube.
 
 volunteer signup
@@ -38,8 +39,8 @@ who are you?
 ------------
 You will mainly see e-mails between or from the following people
  - Ilan Rabinovitch is the SCALE Conference Chair and involved with the streaming video
- - Michael Proctor Smith is the A/V Chair and handles the technical end
- - Tom King is a former A/V Chair; he handles the rental equipment
+ - Michael Proctor Smith is the A/V Chair and handles the technical end with the cameras and video recording
+ - Tom King is a former A/V Chair; he handles the rental equipment and radios
  - Lan Dang is the new A/V volunteer coordinator and the one who writes up most of the wiki entries and issues.
 
 
