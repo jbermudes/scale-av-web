@@ -44,7 +44,7 @@ You will mainly see e-mails between or from the following people
  - Tom King is a former A/V Chair; he handles the rental equipment, audio and radios
  - Lan Dang is the A/V volunteer coordinator and the one who writes up most of the wiki entries and issues.
  - James McDuffie is in charge of A/V operations
- - Michael Starch is technical guru and will lead the troubleshooting
+ - Michael Starch is the technical guru aka head of the troubleshooting brigade.
  - Jess Bermudes will coordinate setup on Wednesday.
 
 
