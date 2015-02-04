@@ -38,6 +38,7 @@ If you are interested in volunteering with us,
 who are you?
 ------------
 You will mainly see e-mails between or from the following people
+
  - Ilan Rabinovitch is the SCALE Conference Chair and involved with the streaming video
  - Michael Proctor Smith is the A/V Chair and handles the technical end with the cameras and video recording
  - Tom King is a former A/V Chair; he handles the rental equipment, audio and radios
