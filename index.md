@@ -13,7 +13,7 @@ We are currently working on SCALE 14x, which will be at the Pasadena Convention 
 There are many volunteer opportunities for people of any skill level ([see wiki](https://github.com/scale-av/scale-av-web/wiki/Volunteer-opportunities)) before, during, and after the conference.
 
 Please keep an eye on the 
- - [scale-av-web github wiki](https://github.com/scale-av/scale-av-web/wiki)
+ - [scale-av-web github wiki](https://github.com/scale-av/scale-av-web/wiki) [to be updated for new venue info]
 
 volunteer info
 ---------------
