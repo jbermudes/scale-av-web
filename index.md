@@ -8,12 +8,12 @@ SCALE A/V is the team that handles A/V for the [Southern California Linux Expo](
 
 We consist of volunteers.  The main perks for volunteers include free admission to SCALE, learning new things, getting the bird's eye view of the conference.  And meals are covered for your shifts.
 
-We are currently working on SCALE 14x, which will be at the Pasadena Convention Center on Jan 21-24, 2016.
+We are currently working on SCALE 14x, which will be at the Pasadena Convention Center on Jan 21-24, 2016.  This will be our first time at this venue.
 
 There are many volunteer opportunities for people of any skill level ([see wiki](https://github.com/scale-av/scale-av-web/wiki/Volunteer-opportunities)) before, during, and after the conference.
 
 Please keep an eye on the 
- - [scale-av-web github wiki](https://github.com/scale-av/scale-av-web/wiki) [to be updated for new venue info]
+ - [scale-av-web github wiki](https://github.com/scale-av/scale-av-web/wiki) [to be updated for SCALE 14x and new venue info]
 
 volunteer info
 ---------------
