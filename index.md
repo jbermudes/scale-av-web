@@ -10,14 +10,14 @@ We consist of volunteers.  The main perks for volunteers include free admission 
 
 We are currently working on SCALE 14x, which will be at the Pasadena Convention Center on Jan 21-24, 2016.  This will be our first time at this venue.
 
-There are many volunteer opportunities for people of any skill level ([see wiki](https://github.com/scale-av/scale-av-web/wiki/Volunteer-opportunities)) before, during, and after the conference.
+There are many volunteer opportunities for people of any skill level ([see wiki](https://github.com/socallinuxexpo/scale-av-web/wiki/Volunteer-opportunities)) before, during, and after the conference.
 
 Please keep an eye on the 
- - [scale-av-web github wiki](https://github.com/scale-av/scale-av-web/wiki) [to be updated for SCALE 14x and new venue info]
+ - [scale-av-web github wiki](https://github.com/socallinuxexpo/scale-av-web/wiki) [to be updated for SCALE 14x and new venue info]
 
 volunteer info
 ---------------
-You can find information on registration, parking, meals, etc on the [wiki](https://github.com/scale-av/scale-av-web/wiki/Volunteer-Basic-Info)
+You can find information on registration, parking, meals, etc on the [wiki](https://github.com/socallinuxexpo/scale-av-web/wiki/Volunteer-Basic-Info)
 
 volunteer timeline
 ------------------
@@ -33,7 +33,7 @@ If you are interested in volunteering with us,
 
  - Sign up [here](http://goo.gl/forms/GS7MvGVRbL) at your earliest convenience so we can get a good idea of what our staffing will be and whether we need to heavily recruit for certain time slots.
  - Sign up for the [scale-av mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-av).  This is we discuss things relating to A/V and where announcements will be made.  It will get busier as we get closer to SCALE.   Please feel free to ask questions and contribute your ideas.  Don't let Jan 21st  be the first time we hear from you.
- - Bookmark [this page](http://scale-av.github.io/scale-av-web/).  It will be a centralized place to direct people to current scale-av plans and activities.  We will be posting more information as we figure out logistical and technical issues.
+ - Bookmark [this page](http://socallinuxexpo.github.io/scale-av-web/).  It will be a centralized place to direct people to current scale-av plans and activities.  We will be posting more information as we figure out logistical and technical issues.
 
 who are you?
 ------------
