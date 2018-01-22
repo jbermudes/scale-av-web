@@ -12,9 +12,6 @@ We are currently working on SCALE 16x, which will be at the Pasadena Convention 
 
 There are many volunteer opportunities for people of any skill level before, during, and after the conference.
 
-Please keep an eye on the 
- - [scale-av-web github wiki](https://github.com/socallinuxexpo/scale-av-web/wiki) 
-
 volunteer info
 ---------------
 You can find information on registration, parking, meals, etc on the [wiki](https://github.com/socallinuxexpo/scale-av-web/wiki/Volunteer-Basic-Info)
