@@ -10,7 +10,7 @@ We consist of volunteers.  The main perks for volunteers include free admission 
 
 We are currently working on SCALE 16x, which will be at the Pasadena Convention Center on Mar 8-11, 2018.  This will be our third time at this venue.
 
-There are many volunteer opportunities for people of any skill level ([see wiki](https://github.com/socallinuxexpo/scale-av-web/wiki/Volunteer-opportunities)) before, during, and after the conference.
+There are many volunteer opportunities for people of any skill level before, during, and after the conference.
 
 Please keep an eye on the 
  - [scale-av-web github wiki](https://github.com/socallinuxexpo/scale-av-web/wiki) 
