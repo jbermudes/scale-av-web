@@ -12,6 +12,16 @@ We are currently working on SCALE 16x, which will be at the Pasadena Convention 
 
 There are many volunteer opportunities for people of any skill level before, during, and after the conference.
 
+volunteer signup
+----------------
+If you are interested in volunteering with us, 
+
+ - Sign up [here](https://goo.gl/forms/QcfvokkV5xHahOSS2) at your earliest convenience so we can get a good idea of what our staffing will be and whether we need to heavily recruit for certain time slots.
+ - Sign up for the [scale-av mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-av).  This is we discuss things relating to A/V and where announcements will be made.  It will get busier as we get closer to SCALE.   Please feel free to ask questions and contribute your ideas.  Don't let March 8th  be the first time we hear from you.
+ - Sign up for the [scale-planning mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-planning).  This is where other SCALE volunteers communicate.
+ - Bookmark [this page](http://socallinuxexpo.github.io/scale-av-web/).  It will be a centralized place to direct people to current scale-av plans and activities.  We will be posting more information as we figure out logistical and technical issues.
+
+
 volunteer info
 ---------------
 You can find information on registration, parking, meals, etc on the [wiki](https://github.com/socallinuxexpo/scale-av-web/wiki/Volunteer-Basic-Info)
@@ -23,15 +33,6 @@ volunteer timeline
  - Mar 8-11 (Thu-Sun),  we will be focused on live video and audio production and troubleshooting.  Volunteer hours are 9-7pm, but A/V support may be required for some evening events.  (NOTE: you are not expected to work the whole day, just whatever times you can manage.)
  - Mar 11 (Sun), once the conference is over,  we could use all the help we can get for tear down.  Most talks will be over by 5:30pm, but we can probably begin teardown of rooms that are no longer being used.  
  - After, we will have a post-mortem and finish up with any video editing tasks needed to get all the videos uploaded to Youtube.
-
-volunteer signup
-----------------
-If you are interested in volunteering with us, 
-
- - Sign up [here](https://goo.gl/forms/QcfvokkV5xHahOSS2) at your earliest convenience so we can get a good idea of what our staffing will be and whether we need to heavily recruit for certain time slots.
- - Sign up for the [scale-av mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-av).  This is we discuss things relating to A/V and where announcements will be made.  It will get busier as we get closer to SCALE.   Please feel free to ask questions and contribute your ideas.  Don't let March 8th  be the first time we hear from you.
- - Sign up for the [scale-planning mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-planning).  This is where other SCALE volunteers communicate.
- - Bookmark [this page](http://socallinuxexpo.github.io/scale-av-web/).  It will be a centralized place to direct people to current scale-av plans and activities.  We will be posting more information as we figure out logistical and technical issues.
 
 who are you?
 ------------
