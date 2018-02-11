@@ -16,7 +16,7 @@ volunteer signup
 ----------------
 If you are interested in volunteering with us, 
 
- - Sign up [here](https://goo.gl/forms/QcfvokkV5xHahOSS2) at your earliest convenience so we can get a good idea of what our staffing will be and whether we need to heavily recruit for certain time slots.
+ - Sign up [here](https://goo.gl/forms/QcfvokkV5xHahOSS2) at your earliest convenience so we can get a good idea of what our staffing will be and whether we need to heavily recruit for certain time slots.  This form asks a number of questions specific to the A/V team and helps us gauge your skills, interests, and availability.
  - Sign up for the [scale-av mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-av).  This is we discuss things relating to A/V and where announcements will be made.  It will get busier as we get closer to SCALE.   Please feel free to ask questions and contribute your ideas.  Don't let March 8th  be the first time we hear from you.
  - Sign up for the [scale-planning mailing list](https://lists.linuxfests.org/cgi-bin/mailman/listinfo/scale-planning).  This is where other SCALE volunteers communicate.
  - Bookmark [this page](http://socallinuxexpo.github.io/scale-av-web/).  It will be a centralized place to direct people to current scale-av plans and activities.  We will be posting more information as we figure out logistical and technical issues.
